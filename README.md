@@ -1,0 +1,1 @@
+fireBase-nextJs-baseproject
